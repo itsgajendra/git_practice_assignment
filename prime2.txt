@@ -6,9 +6,9 @@ let factor =0;
 let num = 13; 
 
 for(let i=1; i<=num; i++) {
-
+      factor++;
 } if (factor==2) {
-console.log("Prime"); 
+console.log("Prime Number"); 
 } else {
-console.log("Non Prime"); 
+console.log("Non Prime Number"); 
 }
