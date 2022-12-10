@@ -1,0 +1,14 @@
+//num = 13
+//prime or not
+
+let factor =0; 
+
+let num = 13; 
+
+for(let i=1; i<=num; i++) {
+
+} if (factor==2) {
+console.log("Prime"); 
+} else {
+console.log("Non Prime"); 
+}
